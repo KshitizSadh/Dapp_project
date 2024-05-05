@@ -16,6 +16,8 @@ Before you begin, make sure you have the following installed on your Windows sys
 - used vs code to write my smart contract in solidity v 0.8.9
 - have used frontend from some youtube channel
 - project is based on buying domain using etherum via meta metamask transactions
+-![Flow drawio](https://github.com/KshitizSadh/Dapp_project/assets/142923024/b9b27e9c-4462-4aa0-9fa9-2804454cbbbb)
+
 ## Step 1: Install Hardhat
 
 Open a terminal (Command Prompt or PowerShell) and install Hardhat globally:
@@ -77,9 +79,10 @@ If you're building a frontend for your DApp, use frameworks like React, Vue.js, 
 
 ### Step 11: Run the DApp
 Start your DApp server (if applicable) and navigate to the frontend URL in your browser to interact with your decentralized application.
-![Screenshot (52)](https://github.com/KshitizSadh/Dapp_project/assets/142923024/699c71da-330f-4699-be66-552af063962d)
 
-![Screenshot (53)](https://github.com/KshitizSadh/Dapp_project/assets/142923024/c0b609b2-8ef6-44aa-8947-edf2aedf5416)
+![Screenshot (52)](https://github.com/KshitizSadh/Dapp_project/assets/142923024/699c71da-330f-4699-be66-552af063962d)
 
 # Conclusion
 Congratulations! You have successfully set up a development environment for building decentralized applications using Hardhat on Windows with Visual Studio Code.
+
+
